@@ -3,5 +3,8 @@ sharath 2
 
 AIT BENGALURU
 RcB
+<<<<<<< HEAD
 pm w git
 git
+=======
+>>>>>>> 577bd75 (new line add)
