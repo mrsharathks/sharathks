@@ -2,9 +2,12 @@ sharath ks 1
 sharath 2
 
 AIT BENGALURU
+<<<<<<< HEAD
 RcB
 <<<<<<< HEAD
 pm w git
 git
 =======
 >>>>>>> 577bd75 (new line add)
+=======
+>>>>>>> parent of 577bd75 (new line add)
